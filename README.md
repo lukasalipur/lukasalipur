@@ -5,9 +5,6 @@
 ---
 
 ## 🚀 About Me  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kikobloom/pixel-cat/main/pixel-cat.gif" width="200"/>
-</div>
 
 I'm an **iOS Developer** with over **3 years of experience** building scalable, high-performance applications. My passion lies in crafting **smooth, intuitive, and visually appealing user experiences** while optimizing performance and maintaining clean, maintainable code.  
 
@@ -37,7 +34,12 @@ I thrive in **collaborative environments**, working closely with designers, back
 - 🛫 **Learn paragliding, skydive, and ride a motorcycle**  
 - 💪 **Commit to fitness and get a few tattoos**  
 - 📈 **Launch my own platform and land a great industry opportunity**  
+- 🎶 **Visit as many Boiler Room sets as possible** 🎧🔥  
 
+
+<div align="center">
+  <img src="https://i.gifer.com/ICU.gif" width="200"/>
+</div>
 ---
 
 ## 📬 Contact  
