@@ -52,6 +52,7 @@ I thrive in **collaborative environments**, working closely with designers, back
 ## 📬 Contact  
 
 📧 **Email:** lukasalipur.dev@gmail.com 
+
 💼 **LinkedIn:** [linkedin.com/in/lukasalipur](https://linkedin.com/in/lukasalipur)  
 📱 **Twitter/X:** [@lukicasalipur](https://twitter.com/lukicasalipur)  
 🔗 **Website:** [lukasalipur.com](https://lukasalipur.com) 
