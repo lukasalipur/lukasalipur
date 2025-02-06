@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Luka!  
 
-<div align="center">
+<div align="left">
   <img src="https://i.gifer.com/S0S.gif" width="200"/>
 </div>
 
