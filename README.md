@@ -8,8 +8,6 @@
 
 - 📱 Focused on **Swift, SwiftUI, Combine, Firebase**  
 - 🔥 Experienced with **CoreData, API integrations, animations, and testing (XCTest)**  
-- 🌍 Worked on **Avunja**, an app for the Kenyan market ([avunja.com](https://avunja.com))  
-- 🎯 Currently rebuilding **FitCats** from scratch  
 
 ---
 
