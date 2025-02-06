@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Luka!  
 
+
+
+💻 iOS Developer with **3+ years of experience** in building mobile applications. Passionate about creating **intuitive and high-performance apps** using the latest Apple technologies.  
 <div align="left">
   <img src="https://i.gifer.com/S0S.gif" width="200"/>
 </div>
-
-💻 iOS Developer with **3+ years of experience** in building mobile applications. Passionate about creating **intuitive and high-performance apps** using the latest Apple technologies.  
-
 
 
 
