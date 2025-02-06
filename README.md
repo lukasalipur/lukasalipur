@@ -26,13 +26,22 @@ I thrive in **collaborative environments**, working closely with designers, back
 
 ---
 
-## 🛠️ Technologies I Use  
+## 🛠️ Skills
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![XCTest](https://img.shields.io/badge/XCTest-6E6E6E?style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+### 💻 Programming Languages & Frameworks:
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)  
+
+### 🔧 Tools & Libraries:
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+![Core Data](https://img.shields.io/badge/CoreData-6E6E6E?style=flat-square)  
+![Fastlane](https://img.shields.io/badge/Fastlane-00C7B7?style=flat-square&logo=fastlane&logoColor=white)  
+
+### 🛠️ Design & Architecture:
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)  
+![Combine](https://img.shields.io/badge/Combine-1E88E5?style=flat-square&logo=swift&logoColor=white)  
+![MVC](https://img.shields.io/badge/MVC-6E6E6E?style=flat-square)  
+![MVVM](https://img.shields.io/badge/MVVM-FF4081?style=flat-square)  
 
 ---
 
