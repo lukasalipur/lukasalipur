@@ -37,11 +37,17 @@ I thrive in **collaborative environments**, working closely with designers, back
 ![Core Data](https://img.shields.io/badge/CoreData-6E6E6E?style=flat-square)  
 ![Fastlane](https://img.shields.io/badge/Fastlane-00C7B7?style=flat-square&logo=fastlane&logoColor=white)  
 
-### 🛠️ Design & Architecture:
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)  
-![Combine](https://img.shields.io/badge/Combine-1E88E5?style=flat-square&logo=swift&logoColor=white)  
+### 🎨 Design Patterns  
 ![MVC](https://img.shields.io/badge/MVC-6E6E6E?style=flat-square)  
 ![MVVM](https://img.shields.io/badge/MVVM-FF4081?style=flat-square)  
+- **MVC (Model-View-Controller)**: Classic design pattern used in many iOS apps.  
+- **MVVM (Model-View-ViewModel)**: Clean architecture for separation of concerns and better testability.
+
+### ⚙️ Frameworks & Tools  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)  
+![Combine](https://img.shields.io/badge/Combine-1E88E5?style=flat-square&logo=swift&logoColor=white)  
+- **SwiftUI**: Used to create declarative UIs and manage state in modern iOS apps.  
+- **Combine**: Reactive programming framework for handling asynchronous events and data flows.
 
 ---
 
