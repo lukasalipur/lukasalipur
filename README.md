@@ -67,14 +67,17 @@ I thrive in **collaborative environments**, working closely with designers, back
 <div align="left">
   <img src="https://i.gifer.com/ICU.gif" width="200"/>
 </div>
+
 ---
 
 ## 📬 Contact  
 
-📧 **Email:** lukasalipur.dev@gmail.com 
+📧 **Email:** lukasalipur.dev@gmail.com
 
-💼 **LinkedIn:** [linkedin.com/in/lukasalipur](https://linkedin.com/in/lukasalipur)  
+💼 **LinkedIn:** [linkedin.com/in/lukasalipur](https://linkedin.com/in/lukasalipur) 
+
 📱 **Twitter/X:** [@lukicasalipur](https://twitter.com/lukicasalipur)  
+
 🔗 **Website:** [lukasalipur.com](https://lukasalipur.com) 
 
 ---
