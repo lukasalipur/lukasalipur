@@ -37,7 +37,7 @@ I thrive in **collaborative environments**, working closely with designers, back
 - 🎶 **Visit as many Boiler Room sets as possible** 🎧🔥  
 
 
-<div align="center">
+<div align="left">
   <img src="https://i.gifer.com/ICU.gif" width="200"/>
 </div>
 ---
