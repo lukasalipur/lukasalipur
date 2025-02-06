@@ -6,8 +6,16 @@
 
 ## 🚀 About Me  
 
-- 📱 Focused on **Swift, SwiftUI, Combine, Firebase**  
-- 🔥 Experienced with **CoreData, API integrations, animations, and testing (XCTest)**  
+I'm an **iOS Developer** with over **3 years of experience** building scalable, high-performance applications. My passion lies in crafting **smooth, intuitive, and visually appealing user experiences** while optimizing performance and maintaining clean, maintainable code.  
+
+🔹 I specialize in **Swift, SwiftUI, and Combine**, leveraging the latest Apple frameworks to build modern, dynamic applications.  
+🔹 I have hands-on experience with **CoreData, Firebase, and API integrations**, ensuring seamless data management and synchronization.  
+🔹 I enjoy working with **animations and UI/UX enhancements**, bringing interfaces to life with custom transitions and fluid interactions.  
+🔹 I believe in writing **testable, modular, and scalable code**, incorporating **XCTest** for reliability and maintainability.  
+
+Beyond coding, I'm always looking for ways to **push the boundaries** of what's possible on iOS. Whether it's experimenting with **ARKit, Machine Learning (Core ML), or advanced performance optimizations**, I love exploring new technologies and staying ahead of industry trends.  
+
+I thrive in **collaborative environments**, working closely with designers, backend engineers, and product teams to bring ideas to life. My ability to bridge the gap between technical and non-technical teams ensures that projects are delivered efficiently and effectively.  
 
 ---
 
