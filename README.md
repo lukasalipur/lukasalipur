@@ -5,6 +5,9 @@
 ---
 
 ## 🚀 About Me  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kikobloom/pixel-cat/main/pixel-cat.gif" width="200"/>
+</div>
 
 I'm an **iOS Developer** with over **3 years of experience** building scalable, high-performance applications. My passion lies in crafting **smooth, intuitive, and visually appealing user experiences** while optimizing performance and maintaining clean, maintainable code.  
 
