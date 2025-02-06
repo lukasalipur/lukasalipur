@@ -28,14 +28,19 @@ I thrive in **collaborative environments**, working closely with designers, back
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages & Frameworks:
+### 💻 Programming Languages & Frameworks
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)  
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)  
+- **Swift**: Proficient in Swift with over 3 years of experience building iOS apps.
+- **SwiftUI**: Extensive use in creating declarative, responsive UIs and handling state management.
 
-### 🔧 Tools & Libraries:
+### 🔧 Tools & Libraries
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 ![Core Data](https://img.shields.io/badge/CoreData-6E6E6E?style=flat-square)  
 ![Fastlane](https://img.shields.io/badge/Fastlane-00C7B7?style=flat-square&logo=fastlane&logoColor=white)  
+- **Firebase**: Implemented Firebase Authentication, Firestore, Cloud Messaging, and Analytics in several iOS apps.
+- **Core Data**: Expert in managing local data persistence with complex data models and relationships.
+- **Fastlane**: Used for automating build and deployment processes, saving time on repetitive tasks.
 
 ### 🎨 Design Patterns  
 ![MVC](https://img.shields.io/badge/MVC-6E6E6E?style=flat-square)  
