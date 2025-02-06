@@ -55,7 +55,8 @@ I thrive in **collaborative environments**, working closely with designers, back
 
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/lukasalipur)  
 
-📱 **Twitter/X:** [@yourTwitter](https://twitter.com/lukicasalipur)  
+📱 **Twitter/X:** [@lukicasalipur](https://twitter.com/lukicasalipur)  
+🔗 **Website:** [lukasalipur.com](https://lukasalipur.com) 
 
 ---
 
