@@ -2,8 +2,6 @@
 
 💻 iOS Developer with **3+ years of experience** in building mobile applications. Passionate about creating **intuitive and high-performance apps** using the latest Apple technologies.  
 
-🎯 My goal is to work on **prestigious services like Wise.com**, move to **London**, and continue growing as a professional.  
-
 ---
 
 ## 🚀 About Me  
